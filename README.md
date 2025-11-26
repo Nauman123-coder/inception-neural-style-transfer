@@ -1,6 +1,6 @@
 # Neural Style Transfer with InceptionV3
 
-![Stylized Result](doggo.png)  
+![Stylized Result](header-image.png)  
 *Beautiful artistic results using InceptionV3 instead of the usual VGG19*
 
 ## Overview
@@ -52,3 +52,4 @@ The entire optimization loop, loss functions, Gram matrices, and image updates a
               Gradient Descent on Input Image
                      ↓
               Repeat 1000+ steps
+
